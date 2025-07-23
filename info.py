@@ -13,7 +13,7 @@ id_pattern = re.compile(r'^.\d+$')
 SESSION = environ.get('SESSION', 'Dotxbrain_bot')
 API_ID = int(environ.get('API_ID', '28552183'))
 API_HASH = environ.get('API_HASH', '3c24fc84a2dc724da488febe6572d79d')
-BOT_TOKEN = environ.get('BOT_TOKEN', "7869145686:AAF95CcyytamphsQM7eUVgDLn4Ij2okvAhs")
+BOT_TOKEN = environ.get('BOT_TOKEN', "8162204934:AAFH6du9CKCumRZMATfoDxUkwM6ZGVWq5Ck")
 
 
 # This Pictures Is For Start Message Picture, You Can Add Multiple By Giving One Space Between Each.
